@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://media.giphy.com/media/OgJKwxVI9blXRczSgf/giphy.gif" alt="Dilip773421 Profile GIF">
+</p>
+
 <!-- ![](https://user-images.githubusercontent.com/87522195/199707270-4531c90d-2024-45e2-94fd-88ef9af69eb1.png) -->
 <h1 align="center">𝗛i <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="40px" width="40px">𝗜'𝗺 Dilip Kumar S ✨</h1>
 
